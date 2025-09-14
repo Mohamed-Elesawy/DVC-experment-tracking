@@ -1,0 +1,6 @@
+outs:
+- md5: 2a9b6080b54482f1c402306f125819d9.dir
+  size: 220345277
+  nfiles: 8067
+  hash: md5
+  path: Car_Dataset

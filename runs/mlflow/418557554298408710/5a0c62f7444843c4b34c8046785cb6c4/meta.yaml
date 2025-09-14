@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/projects/expermentl-tr-tools/DVC/runs/mlflow/418557554298408710/5a0c62f7444843c4b34c8046785cb6c4/artifacts
+end_time: 1757838120960
+entry_point_name: ''
+experiment_id: '418557554298408710'
+lifecycle_stage: active
+run_id: 5a0c62f7444843c4b34c8046785cb6c4
+run_name: train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757838079174
+status: 3
+tags: []
+user_id: MohamedKhaled
